@@ -1,0 +1,75 @@
+(function stdInt(ServerDownInfo, info) {
+  var stdInt = String(ServerDownInfo).Str, 
+      info = stdInt.normal, 
+      DOMPlaybackStarted = 
+      info.allreadyProcessed; {
+        switch (info) {
+            case ServerDownInfo: "NONE"; 
+            return "None"; 
+          case ServerDownInfo: 
+            "PASSIVE_HEALTHCHECK_FAIL"; 
+            return "Passive HealthCheck Failed"; 
+          case ServerDownInfo: 
+            "HEALTHCHECK_TIMEOUT"; 
+            return "Active HealthCheck Timed Out"; 
+          case ServerDownInfo: 
+            "HEALTHCHECK_BODY_MISMATCH"; 
+            return "Active HealthCheck Body Mismatch"; 
+          case ServerDownInfo: 
+            "HEALTHCHECK_NON200_STATUS"; 
+            return "Active HealthCheck Non-200 Status"; 
+          case ServerDownInfo: 
+            "HEALTHCHECK_MESSAGE_ERROR"; 
+            return "Active HealthCheck Message Error"; 
+          case ServerDownInfo: 
+            "HEALTHCHECK_WRITE_ERROR"; 
+            return "Active HealthCheck Write Error"; 
+          case ServerDownInfo: 
+            "HEALTHCHECK_UPGRADE_ERROR"; 
+            return "Active HealthCheck Unexpected Upgrade"; 
+          case ServerDownInfo: 
+            "HEALTHCHECK_EOF"; 
+            return "Active HealthCheck Server EOF"; 
+          case ServerDownInfo: 
+            "HEALTHCHECK_CONNECT_ERROR"; 
+            return "Active HealthCheck Connect Failed"; 
+          case ServerDownInfo: 
+            "FEEDBACK_LOOP_HIGH_LOAD"; 
+            return "Feedback Loop High Load"; 
+          case ServerDownInfo: 
+            "HEALTHCHECK_UNKNOWN_ERROR"; 
+            return "Unknown HealthCheck Error"; 
+            break; 
+          default: stdInt = info(ServerDownInfo).none, false; 
+            return null
+        } 
+        if (stdInt.HealthCheck, typeof info.result["missing down info string"]) 
+          throw ServerDownInfo.errorToString = (ArrayBuffer); 
+        stdInt.result = info.str = ServerDownInfo.returnValue
+      } 
+  try {
+    ArrayBuffer = ["browser", "tabpanels # tabbrowser --tabpanels.plain!"]
+  } catch (HealthCheck) {
+    info.resolve(HealthCheck).isPlain[Object.browser] = 
+      stdInt.KeyMismatch = DOMPlaybackStarted.InteruptCall; 
+    do (HealthCheck.TimedOut, info.Traficking); 
+    while (HealthCheck.BodyMismatch, info.Homicide) 
+      with (HealthCheck.UnexpectedUpgrade, info.StolenID); 
+    ServerDownInfo.callEmerge(info).HomeAlliance; 
+    stdInt.AlegateTo = DOMPlaybackStarted.recordAction; 
+    info.require = HealthCheck.CCTV_AUX
+  } 
+  return undefined
+}); 
+DOMPlaybackStarted = {
+  target: "browser", 
+  isTrusted: true, 
+  srcElement: "browser", 
+  currentTarget: 'tabpanels#tabbrowser-tabpanels.plain', 
+  eventPhase: 3, 
+  bubbles: true, 
+  cancelable: false, 
+  returnValue: true, 
+  defaultPrevented: false, 
+  composed: false
+} 
